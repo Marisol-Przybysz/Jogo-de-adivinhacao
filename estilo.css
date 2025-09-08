@@ -1,0 +1,27 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(181, 214, 230);
+    color: rgb(2, 44, 63);
+}
+.jogo{
+    background-color: rgb(142, 192, 217);
+    border-radius: 50px;
+    border-style: outset;
+}
+
+h1{
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(98, 176, 217);
+}
+#resultado{
+    background-color: rgb(98, 176, 217);
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+}
